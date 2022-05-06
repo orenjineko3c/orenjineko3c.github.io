@@ -401,11 +401,11 @@ section {
   padding-bottom: 30px;
 }
 .section-title h2 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  position: relative;
   font-size: 24px;
   font-weight: 700;
-  padding-bottom: 0;
-  line-height: 1px;
-  margin-bottom: 15px;
   color: #c2b7b1;
 }
 .section-title p {
